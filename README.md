@@ -1,2 +1,3 @@
 # html-capstoneproject-1
-First projec
+First project
+
